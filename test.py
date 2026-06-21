@@ -1,3 +1,10 @@
+import sys
+print("Running Python from:", sys.executable)
+
+
+
+
+
 import argparse
 import logging
 import torch
